@@ -23,7 +23,7 @@ class Solution(object):
     return array
     
  
- Solution #2(keep the nonzero element original order):
+ ###Solution #2(keep the nonzero element original order):
  def moveZerosToEnd (arr, n): 
   
     # Count of non-zero elements 
